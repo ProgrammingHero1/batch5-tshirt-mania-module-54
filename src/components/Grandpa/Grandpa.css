@@ -1,7 +1,11 @@
 
 .grandpa, .grandpa div{
     border: 2px solid goldenrod;
-    margin: 10px;
+    margin: 5px 10px;
     padding: 5px;
     border-radius: 10px;
+}
+.grandpa p{
+    margin-top: 0;
+    margin-bottom: 0;
 }
